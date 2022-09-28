@@ -41,9 +41,9 @@ Tools
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=181717"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Eclipse IDE-white?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-white?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Tomcat-white?style=flat&logo=Apache Tomcat&logoColor=#F8DC75"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 
 </div>
 
