@@ -35,13 +35,17 @@ PlatForms & Languages
 Tools
 </div>
 <div align="center">
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=181717"/>
 </div>
-  
+<div align="center">
+<img src="https://img.shields.io/badge/Eclipse IDE-white?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-white?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Tomcat-white?style=flat&logo=Apache Tomcat&logoColor=#F8DC75"/>
+
+</div>
 
 
 
