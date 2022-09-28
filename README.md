@@ -26,10 +26,7 @@
 <img src="https://img.shields.io/badge/CKEditor 4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </div>
-
-<div align="center">
-Tools
-</div>
+<div align=center><h5>✨ Tools ✨</h5></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
