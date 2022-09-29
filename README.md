@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/> <img src="https://img.shields.io/badge/Apache Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
+<img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/> <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
