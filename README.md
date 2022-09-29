@@ -29,7 +29,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-gray?style=flat&logo=JSON&logoColor=000000"/>
   <img src="https://img.shields.io/badge/CKEditor 4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> 
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
