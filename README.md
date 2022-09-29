@@ -20,8 +20,6 @@
 <h3><div>
 · ✨ Back-end : 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
@@ -35,6 +33,8 @@
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 </div></h3><br/>
 
 <h3><div>
