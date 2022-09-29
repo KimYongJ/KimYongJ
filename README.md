@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/CKEditor4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> 
-</div>
+</div><br/>
 
 <div>
 * ✨ Back-end : 
@@ -28,14 +28,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
-</div>
+</div><br/>
 
 <div>
 * ✨ Server : 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-</div>
+</div><br/>
 
 <div>
 * 🛠 Tools : 
@@ -46,14 +46,16 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-</div>
+</div><br/>
+
 <div>
 * 🎨 SNS : 
   <a href="https://blog.naver.com/yongj326" target="blank">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Blogger&logoColor=white"/>
   </a>
-</div>
-<br/>
+</div><br/>
+
+
 <hr/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
