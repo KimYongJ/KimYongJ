@@ -7,7 +7,7 @@
 
 <h1>▎📚STACKS</h1><br/>
 
-<h4>
+<h3>
 <div>
 · ✨ Front-end : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/CKEditor4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> 
-</div><br/></h4>
+</div></h3>
 
 <div>
 · ✨ Back-end : 
