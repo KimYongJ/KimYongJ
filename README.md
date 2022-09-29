@@ -6,7 +6,7 @@
 
 
 <h1>▎📚STACKS</h1>
-<br/>
+
 * ✨ Front-end : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/CKEditor4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> 
-<br/>
+
 * ✨ Back-end : 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/>
@@ -25,12 +25,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
-<br/>
+
 * ✨ Server : 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-<br/>
+
 * 🛠 Tools : 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
