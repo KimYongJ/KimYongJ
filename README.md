@@ -21,9 +21,7 @@
 · ✨ Back-end : 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
@@ -31,10 +29,12 @@
 </div></h3><br/>
 
 <h3><div>
-· ✨ Server : 
+· ✨ DevOps : 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
 </div></h3><br/>
 
 <h3><div>
