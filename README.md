@@ -37,9 +37,8 @@
 <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=181717"/>
-
-
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -51,11 +50,7 @@
 
 
 
-
-
-![KimYongJ](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&langs_count=8)
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
+</div>
