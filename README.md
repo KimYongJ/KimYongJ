@@ -8,7 +8,7 @@
 <h1>▎📚STACKS</h1><br/>
 
 <h3><div>
-· ✨ Front-end : 
+· 📲 Front-end : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
@@ -18,7 +18,7 @@
 </div></h3><br/>
 
 <h3><div>
-· ✨ Back-end : 
+· 📰 Back-end : 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
@@ -28,7 +28,7 @@
 </div></h3><br/>
 
 <h3><div>
-· ✨ DevOps : 
+· ⚙ DevOps : 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
@@ -40,7 +40,7 @@
 </div></h3><br/>
 
 <h3><div>
-· ✨ OS : 
+· 🌁 OS : 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 </div></h3><br/>
