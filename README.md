@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-088142?style=flat&logo=Databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-white?style=flat&logo=Apache Maven&logoColor=C71A36"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
 </div></h3><br/>
