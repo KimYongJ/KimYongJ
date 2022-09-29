@@ -45,9 +45,12 @@
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 </div>
 
-
 <div align=center><h4>🎨 SNS 🎨</h4></div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Blogger&logoColor=white"/>
+</div>
+
 
 
 <div align="center">
