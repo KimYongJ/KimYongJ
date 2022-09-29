@@ -49,6 +49,6 @@
 
 
 
-
+<div align="center">
 ![KimYongJ](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
-
+</div>
