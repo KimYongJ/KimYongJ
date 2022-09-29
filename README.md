@@ -48,7 +48,7 @@
 <div align=center><h4>🎨 SNS 🎨</h4></div>
 
 <div align="center">
-  <a href="https://blog.naver.com/yongj326" target="_blank">
+  <a href="https://blog.naver.com/yongj326" target="blank">
 <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Blogger&logoColor=white"/>
   </a>
 </div>
