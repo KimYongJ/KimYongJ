@@ -7,7 +7,7 @@
 
 <h1>▎📚STACKS</h1>
 
-<h4>✨ Front-end ✨</h4>
+* ✨ Front-end ✨
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
 </div >
 
-<h4>*✨ Server ✨</h4>
+<h4>✨ Server ✨</h4>
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
