@@ -57,6 +57,7 @@
   </a>
 </div></h3><br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ&count_bg=%2338D1F3&title_bg=%233D5C41&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <hr/>
 <div align="center">
