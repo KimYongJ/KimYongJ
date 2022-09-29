@@ -46,11 +46,11 @@
 </div>
 
 
-
-
+<div align=center><h4>🎨 SNS 🎨</h4></div>
+<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Blogger&logoColor=white"/>
 
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
 </div>
