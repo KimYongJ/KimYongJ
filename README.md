@@ -5,10 +5,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimYongJ's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
-<h1>▎📚STACKS</h1>
+<h1>▎📚STACKS</h1><br/>
 
 <div>
-* ✨ Front-end : 
+· ✨ Front-end : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
@@ -18,7 +18,7 @@
 </div><br/>
 
 <div>
-* ✨ Back-end : 
+· ✨ Back-end : 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=#2496ED"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -31,14 +31,14 @@
 </div><br/>
 
 <div>
-* ✨ Server : 
+· ✨ Server : 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
 </div><br/>
 
 <div>
-* 🛠 Tools : 
+· 🛠 Tools : 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
@@ -49,7 +49,7 @@
 </div><br/>
 
 <div>
-* 🎨 SNS : 
+· 🎨 SNS : 
   <a href="https://blog.naver.com/yongj326" target="blank">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Blogger&logoColor=white"/>
   </a>
