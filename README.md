@@ -67,7 +67,7 @@
 <div>- 2022.06 SQLD 취득</div>
 <div>- 2021.08 정보처리기사 취득</div>
 <div>- 2019.10 네트워크 관리사 </div>
-  
+  <hr/>
 <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
  <br>
