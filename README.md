@@ -13,7 +13,7 @@
 <span>개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.</span><div></div>
 <span>또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!</span><div></div>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
 
 <h1>▎📚STACKS</h1><h3/>
 
@@ -82,7 +82,9 @@
 <div>· 2021.08    정보처리기사 취득</div>
 <div>· 2019.10    네트워크 관리사 2급 취득</div>
 
-
+<br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
+ <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ%2FKimYongJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
