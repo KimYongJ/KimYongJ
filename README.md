@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimYongJ's%20GitHub%20Profile&descAlignY=51&descAlign=49)
 ## Hi! I'm YongJu!👋
 I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
 
@@ -29,7 +28,8 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
+ 
 ## ▎📚STACKS
 
 <h3><div>
@@ -66,8 +66,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 <h3><div>
 · 🌁 OS : 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 </div></h3>
 
 <h3><div>
@@ -97,18 +96,16 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 2021.08    정보처리기사 취득
 - 2019.10    네트워크 관리사 2급 취득
 
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
- <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ%2FKimYongJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<hr/>
-
-
+## Algorithm Study
+- 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
 
+- 프로그래머스
+  - LV2 배지 취득
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+<hr/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ%2FKimYongJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
