@@ -64,11 +64,11 @@
 </div></h3>
 <h1>▎Book Group Study</h1><h3/>
 <div>프로그래밍 개발 서적을 탐험하는 모임!Ptudy</div>
-<div>· 1기 :  알고리즘 스터디 ( 2023.04.59 ~ 진행중 )</div>
+<div>· 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 )</div>
 <h1>▎Certification</h1><h3/>
-<div>· 2022.06  SQLD 취득</div>
-<div>· 2021.08  정보처리기사 취득</div>
-<div>· 2019.10  네트워크 관리사 2급 취득</div>
+<div>· 2022.06    SQLD 취득</div>
+<div>· 2021.08    정보처리기사 취득</div>
+<div>· 2019.10    네트워크 관리사 2급 취득</div>
 
 <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
