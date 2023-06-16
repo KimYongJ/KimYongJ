@@ -29,7 +29,8 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
-<h1>▎📚STACKS</h1><h3/>
+## ▎📚STACKS
+<h3/>
 
 <h3><div>
 · 📲 Front-end : 
@@ -78,9 +79,6 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div></h3>
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
- <br>
 <h3><div>
 · 🎨 SNS : 
   <a href="https://blog.naver.com/yongj326" target="blank">
