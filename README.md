@@ -1,5 +1,5 @@
 
-## Hi! I'm YongJu!👋
+##  ▎Hi! I'm YongJu!
 I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
 
 I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
@@ -12,7 +12,7 @@ I believe that developers need to write code that has a business impact, is good
 
 Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
-## 안녕하세요! 함께 성장하는 개발자 김용주 입니다.😀
+##  ▎안녕하세요! 함께 성장하는 개발자 김용주 입니다.😀
 
 저는 새로운 지식과 기술을 배우는것을 좋아하며, 경험을 공유하고 함께 성장하는 가치를 가장 중요시합니다. 
 
@@ -96,7 +96,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 2021.08    정보처리기사 취득
 - 2019.10    네트워크 관리사 2급 취득
 
-## Algorithm Study
+##  ▎Algorithm Study
 - 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
