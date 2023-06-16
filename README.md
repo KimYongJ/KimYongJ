@@ -29,8 +29,8 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
+
 ## ▎📚STACKS
-<h3/>
 
 <h3><div>
 · 📲 Front-end : 
@@ -86,13 +86,16 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   </a>
   <a href="mailto:yongj326@naver.com"><img src="https://img.shields.io/badge/yongj326@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongj326@naver.com"/></a>
 </div></h3>
-<h1>▎Book Group Study</h1><h3/>
-<div>프로그래밍 개발 서적을 탐험하는 모임!Ptudy</div>
-<div>· 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 )</div>
-<h1>▎Certification</h1><h3/>
-<div>· 2022.06    SQLD 취득</div>
-<div>· 2021.08    정보처리기사 취득</div>
-<div>· 2019.10    네트워크 관리사 2급 취득</div>
+
+##  ▎Book Group Study
+
+- 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 )
+
+##  ▎Certification
+
+- 2022.06    SQLD 취득
+- 2021.08    정보처리기사 취득
+- 2019.10    네트워크 관리사 2급 취득
 
 <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
@@ -104,7 +107,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
