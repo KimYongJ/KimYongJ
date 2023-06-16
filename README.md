@@ -64,7 +64,9 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div></h3>
-
+<br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
+ <br>
 <h3><div>
 · 🎨 SNS : 
   <a href="https://blog.naver.com/yongj326" target="blank">
@@ -80,9 +82,7 @@
 <div>· 2021.08    정보처리기사 취득</div>
 <div>· 2019.10    네트워크 관리사 2급 취득</div>
 
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
- <br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ%2FKimYongJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
