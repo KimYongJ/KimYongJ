@@ -5,8 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimYongJ's%20GitHub%20Profile&descAlignY=51&descAlign=49)
 
 <h1>▎안녕하세요! 함께 성장하는 개발자 김용 입니다.😀</h1><h3/>
-<span>저는 새로운 지식과 기술을 배우는것을 좋아하며, 경험을 공유하고 함께 성장하는 가치를 가장 중요시합니다.</span><div></div>
-<span>나 혼자의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다.</span><div></div>
+<span style="font-size:10px">저는 새로운 지식과 기술을 배우는것을 좋아하며, 경험을 공유하고 함께 성장하는 가치를 가장 중요시합니다.</span><div></div>
+<span style="font-size:10px">나 혼자의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다.</span><div></div>
 <span>나 혼자의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다.</span><div></div>
 <span>Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,</span><div></div>
 <span>현재는 자바와 자바스크립트에 관심이 많습니다!</span><div></div>
@@ -14,7 +14,6 @@
 <span>또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!</span><div></div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
-
 <h1>▎📚STACKS</h1><h3/>
 
 <h3><div>
