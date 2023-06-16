@@ -1,9 +1,6 @@
-<h1>Hi there ❗ 👋</h1>
-
-
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimYongJ's%20GitHub%20Profile&descAlignY=51&descAlign=49)
-## Hi! I'm YongJu!
+## Hi! I'm YongJu!👋
 I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
 
 I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
