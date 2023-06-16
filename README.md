@@ -3,6 +3,18 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KimYongJ's%20GitHub%20Profile&descAlignY=51&descAlign=49)
+## Hi! I'm YongJu!
+I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
+
+I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
+
+With Java & Spring as the main, have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
+
+Currently I am very interested in Java, JavaScript
+
+I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so constantly struggling to achieve it.
+
+Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
 ## 안녕하세요! 함께 성장하는 개발자 김용주 입니다.😀
 
