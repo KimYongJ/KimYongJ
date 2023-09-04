@@ -39,14 +39,12 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CKEditor4-0287D0?style=flat&logo=CKEditor 4&logoColor=white"/> 
 </div></h3>
 
 <h3><div>
 · 📰 Back-end : 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-088142?style=flat&logo=Databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
