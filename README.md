@@ -20,7 +20,7 @@ Also, with the belief that today's routine, system, and record make the future, 
 
 Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,
 
-현재는 자바와 자바스크립트에 관심이 많습니다!
+현재는 자바와 쿼리 최적화에 관심이 많습니다!
 
 개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.
 
