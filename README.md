@@ -12,7 +12,7 @@ I believe that developers need to write code that has a business impact, is good
 
 Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
-##  ▎안녕하세요! 함께 성장하는 개발자 김용주 입니다.😀
+##  ▎안녕하세요! 기록하는 백엔드 개발자 김용주 입니다.😀
 
 저는 새로운 지식과 기술을 배우는것을 좋아하며, 경험을 공유하고 함께 성장하는 가치를 가장 중요시합니다. 
 
