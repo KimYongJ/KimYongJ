@@ -92,10 +92,10 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   - https://github.com/KimYongJ/HTTPStudy
 ##  ▎Certification
 
-- 2023.09    PCCP Lv 1.
 - 2022.06    SQLD 취득
 - 2021.08    정보처리기사 취득
 - 2019.10    네트워크 관리사 2급 취득
+- 2023.09    PCCP Lv 1.
 
 ##  ▎Algorithm Study
 - 백준
