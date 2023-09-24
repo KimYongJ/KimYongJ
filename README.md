@@ -84,7 +84,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   <a href="mailto:yongj326@naver.com"><img src="https://img.shields.io/badge/yongj326@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongj326@naver.com"/></a>
 </div></h3>
 
-##  ▎Book Group Study
+##  ▎Group Study
 
 - 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 ) 
   - https://github.com/KimYongJ/algorithm/tree/main/프로그래머스
