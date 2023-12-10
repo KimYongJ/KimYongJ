@@ -84,12 +84,13 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 ##  ▎Group Study
 
-- 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 ) 
-  - https://github.com/KimYongJ/algorithm/tree/main/프로그래머스
+- 3기  :   SQL 레벨업 ( 2023.10.16 ~ 2023.12.10 )
+  - https://github.com/KimYongJ/SQL-level-up
 - 2기  :   모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
   - https://github.com/KimYongJ/HTTPStudy
-- 3기  :   SQL 레벨업 ( 2023.10.16 ~ 진행중 )
-  - https://github.com/KimYongJ/SQL-level-up
+- 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 진행중 ) 
+  - https://github.com/KimYongJ/algorithm/tree/main/프로그래머스
+
  
 ##  ▎Certification
 
