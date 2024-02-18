@@ -31,7 +31,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
  
 ## ▎📚STACKS
-
+<!--
 <h3><div>
 · 📲 Front-end : 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
@@ -40,7 +40,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
 </div></h3>
-
+-->
 <h3><div>
 · 📰 Back-end : 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"/>
@@ -84,6 +84,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 ##  ▎Group Study
 
+- 4기  :   해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 진행중 )
 - 3기  :   SQL 레벨업 ( 2023.10.16 ~ 2023.12.10 )
   - https://github.com/KimYongJ/SQL-level-up
 - 2기  :   모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
