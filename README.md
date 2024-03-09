@@ -93,6 +93,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
+[플레티넘 달성](https://solved.ac/profile/kyjdummy)
 
 - 프로그래머스
   - LV2 배지 취득
