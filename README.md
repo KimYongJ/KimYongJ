@@ -71,24 +71,25 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   <a href="mailto:yongj326@naver.com"><img src="https://img.shields.io/badge/yongj326@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongj326@naver.com"/></a>
 </div></h3>
 
-##  ▎Group Study
 
-- 4기  :   해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 진행중 )
-  - https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS
-- 3기  :   SQL 레벨업 ( 2023.10.16 ~ 2023.12.10 )
+##  ▎Group Study
+- 2기  :   SQL 레벨업 ( 2023.10.16 ~ 2023.12.10 )
   - https://github.com/KimYongJ/SQL-level-up
-- 2기  :   모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
-  - https://github.com/KimYongJ/HTTPStudy
 - 1기  :   알고리즘 스터디 ( 2023.04.12 ~ 2023.12.01 ) 
   - https://github.com/KimYongJ/algorithm/tree/main/프로그래머스
 
- 
+
+##  ▎Self Study
+- 해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 진행중 )
+  - https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS
+- 모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
+  - https://github.com/KimYongJ/HTTPStudy
+
+
 ##  ▎Certification
 
 - 2022.06    SQLD 취득
 - 2021.08    정보처리기사 취득
-- 2019.10    네트워크 관리사 2급 취득
-- 2023.09    PCCP Lv 1.
 
 ##  ▎Algorithm Study
 - 백준
