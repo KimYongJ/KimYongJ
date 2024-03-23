@@ -83,7 +83,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 ##  ▎Self Study
-- 해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 진행중 )
+- 해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 2024.03.20 )
   - https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS
 - 모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
   - https://github.com/KimYongJ/HTTPStudy
