@@ -18,7 +18,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
  
-## ▎📚STACKS
+## ▎📚Skill
 <!--
 <h3><div>
 · 📲 Front-end : 
@@ -73,6 +73,16 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   </a>
   <a href="mailto:yongj326@naver.com"><img src="https://img.shields.io/badge/yongj326@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongj326@naver.com"/></a>
 </div></h3>
+
+
+## Project 📒 
+### [ 차량 용품 판매 사이트 만들기 ]
+- **개발기간** : 2024.01.01 ~ 진행중
+- 기획, 요구사항 분석부터 실제 배포까지 진행, 유지보수의 웹 애플리케이션 수명주기 전 과정을 경험하기 위해 스프링부트와, JPA, React MUI를 사용해 사이트 제작
+- CI/CD 파이프라인 구축 후 무중단 배포
+- 단위 테스트 및 통합 테스트 케이스를 작성해 자동화된 테스트 수행
+
+[Details](https://github.com/KimYongJ/Practice_Back)
 
 
 ##  ▎Group Study
