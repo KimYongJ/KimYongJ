@@ -14,10 +14,13 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!
 
-
+<div align=center>
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=KimYongJ&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimYongJ&layout=compact">
- 
+
+</div>
+
 ## ▎📚Skill
 <!--
 <h3><div>
@@ -118,5 +121,9 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 <hr/>
 
+<div align=center>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimYongJ%2FKimYongJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
