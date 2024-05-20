@@ -96,7 +96,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 
 ##  ▎Self Study
-- Test Code 공부 ( 2024.04.20 ~ 2024.05.20 )
+- Test Code ( 2024.04.20 ~ 2024.05.20 )
   - https://github.com/KimYongJ/test_code
 - 해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 2024.03.20 )
   - https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS
