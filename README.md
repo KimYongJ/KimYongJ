@@ -111,8 +111,13 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 ##  ▎Algorithm Study
 - 백준
+  
+<p><a href="https://solved.ac/kyjdummy">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy" alt="Solved.ac Profile">
+<img src="http://mazandi.herokuapp.com/api?handle=kyjdummy&theme=cold" alt="Solved.ac Streak">
+</a></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyjdummy)](https://solved.ac/kyjdummy/)
+
 
 [플레티넘 달성](https://solved.ac/profile/kyjdummy)
 
