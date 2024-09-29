@@ -108,6 +108,9 @@
 - 모든 개발자를 위한 HTTP 웹 기본 지식 ( 2023.07.16 ~ 2023.08.31 )
   - https://github.com/KimYongJ/HTTPStudy
 
+##  ▎Education
+- 2018.03 - 2022.02 &nbsp; 컴퓨터과학과 졸업
+- 2022.04 - 2022.10 &nbsp; 정보산업 진흥원 웹 Full Stack 개발자 교육과정 수료
 
 ##  ▎Certification
 
