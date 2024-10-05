@@ -125,6 +125,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=kyjdummy&theme=cold" alt="Solved.ac Streak">
 </a></p>
 
+![kyjdummy's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyjdummy)
 
 
 [플레티넘 달성](https://solved.ac/profile/kyjdummy)
