@@ -125,6 +125,11 @@
 <img src="http://mazandi.herokuapp.com/api?handle=kyjdummy&theme=cold" alt="Solved.ac Streak">
 </a></p>
 
+
+<!--
+<a href="https://opgc.me/#/users/KimYongJ" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/KimYongJ/tag/?theme=basic" /></a>
+-->
+
 ![kyjdummy's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyjdummy)
 
 
