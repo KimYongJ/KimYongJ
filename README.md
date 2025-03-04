@@ -82,7 +82,7 @@
   <a href="mailto:yongj326@naver.com"><img src="https://img.shields.io/badge/yongj326@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongj326@naver.com"/></a>
 </div></h3>
 
-
+<!--
 ## Project 📒 
 ### [ 차량 용품 판매 사이트 ]
 - **개발기간** : 2024.01.01 ~ 2024.06.01
@@ -99,6 +99,7 @@
 
 [Details](https://github.com/KimYongJ/GoCo)
 
+-->
 
 ##  ▎Group Study
 - 2기  :   SQL 레벨업 ( 2023.10.16 ~ 2023.12.10 )
