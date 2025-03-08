@@ -109,6 +109,8 @@
 
 
 ##  ▎Self Study
+- 객체지향사실과오해 ( 2025.02.16 ~ 2025.03.09 )
+  - https://github.com/KimYongJ/object-oriented-misunderstanding-summary
 - Test Code ( 2024.04.20 ~ 2024.05.20 )
   - https://github.com/KimYongJ/test_code
 - 해커랭크, 리트코드 SQL 문제 풀이 ( 2024.02.11 ~ 2024.03.20 )
