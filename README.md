@@ -143,7 +143,7 @@
 ![kyjdummy's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyjdummy)
 
 
-[플레티넘 달성](https://solved.ac/profile/kyjdummy)
+[다이아몬드 달성](https://solved.ac/profile/kyjdummy)
 
 
 - 프로그래머스
