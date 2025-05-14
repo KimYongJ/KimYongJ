@@ -10,7 +10,7 @@
   - 매일 알고리즘 풀이를 통해 논리적 사고력과 문제 해결 능력 향상
   - 1일 1커밋을 실천하여 꾸준한 학습 지속 - [링크](https://github.com/KimYongJ/algorithm)
 - 학습한 내용을 정리하여 문서화합니다.
-  - Markdown을 활용해 학습 내용을 체계적으로 기록하고 정리 - [링크1](https://github.com/KimYongJ/test_code) [링크2](https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS) [링크3](https://github.com/KimYongJ/HTTPStudy) [링크4](https://github.com/KimYongJ/object-oriented-misunderstanding-summary)
+  - Markdown을 활용해 학습 내용을 체계적으로 기록하고 정리 - [링크1](https://github.com/KimYongJ/test_code) [링크2](https://github.com/KimYongJ/HackerRank_LeetCode_SQL_PS) [링크3](https://github.com/KimYongJ/HTTPStudy) [링크4](https://github.com/KimYongJ/object-oriented-misunderstanding-summary) [링크5](https://github.com/KimYongJ/system-design-interview-notes)
   - 이를 바탕으로 개인 기술 문서를 지속적으로 작성하고 내용 갱신
 - 명확한 문서화를 통해 팀원들과 원활한 소통을 목표로 합니다.
   - 상세한 문서화를 통해 정확한 프로세스를 공유하여 의견 불일치를 방지하고 원활한 협업을 유도
