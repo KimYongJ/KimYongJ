@@ -109,6 +109,8 @@
 
 
 ##  ▎Self Study
+- 가상 면접 사례로 배우는 대규모 시스템 설계 기초 ( 2025.04.01 ~ 2025.05.14 )
+  - https://github.com/KimYongJ/system-design-interview-notes
 - 객체지향사실과오해 ( 2025.02.16 ~ 2025.03.09 )
   - https://github.com/KimYongJ/object-oriented-misunderstanding-summary
 - Test Code ( 2024.04.20 ~ 2024.05.20 )
